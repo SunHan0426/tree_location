@@ -21,7 +21,7 @@ This repository is used in paper: Novel Method of Fruit Tree Trunk Location Usin
 
 Run script
 ```Python
-	python /main_script.py
+python /main_script.py
 ```
 
 	Follow the prompts to turn on the camera and perform detection and ranging. The automated program automatically counts each ranging, outputs and saves the results.
