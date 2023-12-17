@@ -36,6 +36,8 @@ Follow the prompts to turn on the camera and perform detection and ranging. The 
 ### Thank you for reviewing this manuscript.
 
 ### Reference
-	https://github.com/ggyyzm/pytorch_segmentation
-	https://github.com/bubbliiiing/pspnet-pytorch
-	https://github.com/wkentaro/labelme
+https://github.com/ggyyzm/pytorch_segmentation
+
+https://github.com/bubbliiiing/pspnet-pytorch
+
+https://github.com/wkentaro/labelme
