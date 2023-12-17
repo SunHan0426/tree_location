@@ -3,7 +3,7 @@ This repository is used in paper: Novel Method of Fruit Tree Trunk Location Usin
 =======
 ## Novel Method of Fruit Tree Trunk Detection and Location Using Stereo Camera and Semantic Segmentation
 ---
-	This is the code repository used in the paper. It includes using the ZED2i camera to obtain relevant data, using the improved model to detect the tree trunk, and measuring the distance of the tree trunk.
+This is the code repository used in the paper. It includes using the ZED2i camera to obtain relevant data, using the improved model to detect the tree trunk, and measuring the distance of the tree trunk.
 
 ## Instructions
 
@@ -24,7 +24,7 @@ Run script
 python /main_script.py
 ```
 
-	Follow the prompts to turn on the camera and perform detection and ranging. The automated program automatically counts each ranging, outputs and saves the results.
+Follow the prompts to turn on the camera and perform detection and ranging. The automated program automatically counts each ranging, outputs and saves the results.
 
 ### Save route
 	The ranging data is saved in "/npy" in the form of .npy
