@@ -1,5 +1,5 @@
 # tree_location
-This repository is used in paper: Novel Method of Fruit Tree Trunk Location Using Stereo Camera and Semantic Segmentation by HanSun.
+This repository is used in paper: Novel Method of Rapid and Accurate Tree Trunk Location in Pear Orchard Combining Stereo Vision and Semantic Segmentation by HanSun.
 =======
 ## Novel Method of Fruit Tree Trunk Detection and Location Using Stereo Camera and Semantic Segmentation
 ---
